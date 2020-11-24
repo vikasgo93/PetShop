@@ -1,0 +1,26 @@
+body {
+    background-image:url("download.jpeg");
+}
+
+.btn {
+    width:300px;
+    margin-top:5px;
+    height:50px
+}
+
+.container {
+    margin-top:15% !important;
+}
+
+input {
+    margin-top: 5px !important;
+    width:300px !important;
+}
+
+#submitBtn{
+    background-color: lightgreen;
+}
+
+.alert-success {
+    margin-top: 30px !important;
+}
